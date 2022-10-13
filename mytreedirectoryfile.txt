@@ -1,0 +1,16 @@
+.
+├── Bathroom
+├── Kitchen
+│   └── Pantry
+├── Living_Room
+│   ├── Diner_Table
+│   └── Library
+├── Main_Bedroom
+│   └── Cupboard
+├── Office
+│   └── Desk
+├── hello.sh
+├── mytreedirectoryfile.txt
+└── obi.txt
+
+10 directories, 3 files
