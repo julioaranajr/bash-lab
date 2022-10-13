@@ -1,5 +1,7 @@
 # 01_Bash_Labs
 
+
+```bash
 .
 ├── Bathroom
 ├── Kitchen
@@ -15,3 +17,4 @@
 └── omytreedirectoryfile.txt
 
 10 directories, 3 files
+```
