@@ -1,4 +1,4 @@
-# 01_Bash_Labs
+# Bash Lab
 
 
 ```bash
